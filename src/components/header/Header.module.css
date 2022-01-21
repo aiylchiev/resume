@@ -1,0 +1,103 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+    border-bottom: 3px solid #000;
+}
+.nav h1 {
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo img {
+    width: 130px;
+    height: 150px;
+    margin-right: 10px;
+}
+.rightInfoNumber {
+    color: black;
+    width: 25px;
+    display: flex;
+}
+.rightInfoNumber img {
+    width: 30px;
+}
+.number {
+    height: 16px;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navInfoLeft {
+    display: flex;
+}
+.rightNavInfo {
+    width: 300px;
+    margin:0;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.github {
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rightInfo {
+    display: flex;
+    color: black;
+    margin-top: 5px;
+}
+.rightInfo img {
+    margin-left: 2px;
+}
+.fio p{
+    font-size:17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fio h4{
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.home {
+    display: flex;
+}
+.home p{
+    height: 16px;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.home img {
+    width: 25px;
+    height: 30px;
+    border-radius: 10px;
+}
+.gmailIcon {
+    display: flex;
+    color: black;
+    margin-top: 5px;
+}
+.gmailIcon img {
+    width: 30px;
+    height: 30px
+}
+.gmaila{
+    height: 16px;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px solid #000;
+}
+.linked{
+    display: flex;
+    align-items: center;
+}
+.linked img{
+    margin-top: 5px;
+    width: 27px;
+}
+.link{
+    margin-left:1px;
+    color:black;
+    font-size:17px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
